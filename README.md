@@ -2,7 +2,7 @@
 
 ✏️ Read my blog on [Hyyrent博客](https://pizz33.github.io/) 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizz33&show_icons=true&theme=radical)
+![Dusai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pizz33&show_icons=true&theme=radical)
 
 ##  
 - ⚡ 热爱摄影📷 唱歌🎤 游戏💻 睡觉💤 咸鱼时间水水文章
