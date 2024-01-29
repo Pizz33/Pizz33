@@ -5,6 +5,5 @@
 ![Dusai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pizz33&show_icons=true&theme=radical)
 
 ##  
-- ⚡ 热爱摄影📷 唱歌🎤 游戏💻 睡觉💤 咸鱼时间水水文章
-- 🌱渗透挖不到洞选手、红队摸鱼甩毛巾大师、应急删库工程师
+- ⚡ 热爱摄影📷 唱歌🎤 游戏💻 运动🏃‍ 咸鱼时间水水文章
 - 💬 Ask me by hyyrent@gmail.com
