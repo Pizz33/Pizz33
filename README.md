@@ -2,9 +2,7 @@
 
 ✏️ Read my blog on [Hyyrent Blog](https://pizz33.github.io/) 
 
-![Dusai's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pizz33)
-
-![Dusai's GitHub stats](https://github-profile-trophy.vercel.app/api?username=Pizz33&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pizz33)
 
 ##  About me
 - 热爱摄影📷 唱歌🎤 游戏💻 健身🏋️‍
