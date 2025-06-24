@@ -2,7 +2,7 @@
 
 ✏️ Read my blog on [Hyyrent Blog](https://pizz33.github.io/) 
 
-![ GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pizz33&theme=tokyonight&hide_border=true&hide=contribs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizz33)](https://github.com/Pizz33/github-readme-stats)
 
 ##  About me
 - 热爱摄影📷 唱歌🎤 游戏💻 健身🏋️‍
