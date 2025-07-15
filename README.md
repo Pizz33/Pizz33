@@ -5,7 +5,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizz33)](https://github.com/Pizz33/github-readme-stats)
 
 ##  About me
-- 热爱摄影📷 唱歌🎤 游戏💻 健身🏋️‍
+- 红蓝对抗/工具开发/SDLC/风控策略
+- 摄影📷 唱歌🎤 游戏💻 健身🏋️‍
 - ask me 📮 ：hyyrent@gmail.com
 
 ##  Others
