@@ -2,12 +2,10 @@
 
 ✏️ Read my blog on [Hyyrent Blog](https://pizz33.github.io/) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pizz33)](https://github.com/Pizz33/github-readme-stats)
-
 ##  About me
 - 红蓝对抗/工具开发/SDLC/风控策略
 - 摄影📷 唱歌🎤 游戏💻 健身🏋️‍
-- ask me 📮 ：hyyrent@gmail.com
+- 合作/咨询 📮 ：hyyrent@gmail.com
 
 ##  Others
 - 本人已不参加红队攻防相关活动，溯源到hyyrent id与本人无关
