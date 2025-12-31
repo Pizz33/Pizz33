@@ -4,7 +4,6 @@
 
 ##  About me
 - 红蓝对抗/工具开发/SDLC/风控策略
-- 摄影📷 唱歌🎤 游戏💻 健身🏋️‍
 - 合作/咨询 📮 ：hyyrent@gmail.com
 
 ##  Others
