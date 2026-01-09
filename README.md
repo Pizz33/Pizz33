@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Hyyrent !
 
-✏️ Read my blog on [Hyyrent Blog](https://pizz33.github.io/) 
-📕 公众号：0xSecurity
+- ✏️ Read my blog on [Hyyrent Blog](https://pizz33.github.io/) 
+- 📕 公众号：0xSecurity
 
 ##  About me
 - 红蓝对抗/工具开发/SDLC/风控策略
